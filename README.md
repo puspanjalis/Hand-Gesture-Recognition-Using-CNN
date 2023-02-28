@@ -53,8 +53,6 @@ The training data consists of a few hundred videos categorised into one of the f
 | rnn_cnn_tl_model  | 3,840,453            | Yes          | 20.4              | 56%                         | 85%                              | For this experiment, Mobilenet layer weights are not trained. Validation accuracy is very poor. So let’s train mobilenet layer’s weights as well |
 | rnn_cnn_tl2_model | 3,692,869            | Yes          | 42.3              | 97%                         | 99%                              | We get a better accuracy on training mobilenet layer’s weights as well.                                                                          |
 
-## Note: If notebook doesnt load then view it here: https://nbviewer.jupyter.org/github/amanrocks11/hand-gesture-recognition-deep-learning/blob/master/Gesture_Recognition_Final.ipynb
-
 ## Technologies Used
 
 - google colab
@@ -64,7 +62,6 @@ The training data consists of a few hundred videos categorised into one of the f
 - seaborn - 0.11.2
 - statsmodels -0.11.1
 - scikit-learn 1.1.2  
-
 
 ## Contact
 Created by [puspanjalis](https://github.com/puspanjalis) - feel free to contact me!
